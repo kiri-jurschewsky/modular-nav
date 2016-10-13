@@ -20,3 +20,19 @@ html {
 body {
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline-block;
+}
+
+.section-dark {
+  background-color: #e2e2e2;
+}
