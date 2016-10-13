@@ -36,3 +36,13 @@ li {
 .section-dark {
   background-color: #e2e2e2;
 }
+
+a:hover, .current:visited, .current {
+  background-color: #0074d9;
+  color: #fff;
+}
+
+a, a:visited {
+  color: #0074d9;
+  text-decoration: none;
+}
